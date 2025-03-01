@@ -1,0 +1,1 @@
+Code for Vanilla Weapons Expanded - Grenades to include a belt version of the Firebomb from Vanilla Weapons Expanded - Tribal.
