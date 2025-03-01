@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-  <ThingDef ParentName="ApparelNoQualityBase" MayRequire="VanillaExpanded.VWEG,VanillaExpanded.VWETB">
+  <ThingDef ParentName="ApparelNoQualityBase" MayRequire="VanillaExpanded.VWETB">
     <defName>VWE_Apparel_GrenadeFireBomb</defName>
     <label>firebomb grenade belt</label>
     <description>Small clay pots with various flammable substances inside, strapped to a belt. Can be reloaded using fire bombs.</description>
